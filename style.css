@@ -1,0 +1,52 @@
+.emphasize {
+    color: #ff6973;
+}
+
+h1 {
+    color: #07070f;
+    font-size: 1.5em;
+}
+
+body {
+    font-size: 1.5em;
+    color: #3c3563;
+    width: 100%;
+    /*margin: 50px 5em;*/
+    text-align: center;
+}
+
+li {
+    text-align: left;
+    margin: 0 auto;
+    color: #181837;
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 0.8em;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.confirm {
+    background-color: rgb(171, 255, 168);
+}
+
+.clear {
+    background-color: rgb(252, 229, 232);
+}
+
+button:hover {
+    /*color: white;*/
+    border: 1.5px solid black;
+}
+input {
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+    font-size: 0.8em;
+    border: 1px solid black;
+    font-size: 0.8em;
+    border-radius: 5px;
+}
